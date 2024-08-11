@@ -16,5 +16,10 @@ namespace Practica__01
         {
             InitializeComponent();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            //ES UN COMENTARIO DE PRUEBA DE CAMBIOS 
+        }
     }
 }
