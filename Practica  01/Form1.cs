@@ -19,7 +19,16 @@ namespace Practica__01
 
         private void button2_Click(object sender, EventArgs e)
         {
-            //ES UN COMENTARIO DE PRUEBA DE CAMBIOS 
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
-}
+}//comentario
