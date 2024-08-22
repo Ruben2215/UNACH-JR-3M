@@ -1,0 +1,10 @@
+C:\Users\Ruben Clemente\Documents\VISUAL STUDIO\Practica  01\Practica  01\bin\Debug\Practica  01.exe.config
+C:\Users\Ruben Clemente\Documents\VISUAL STUDIO\Practica  01\Practica  01\bin\Debug\Practica  01.exe
+C:\Users\Ruben Clemente\Documents\VISUAL STUDIO\Practica  01\Practica  01\bin\Debug\Practica  01.pdb
+C:\Users\Ruben Clemente\Documents\VISUAL STUDIO\Practica  01\Practica  01\obj\Debug\Practica  01.csproj.AssemblyReference.cache
+C:\Users\Ruben Clemente\Documents\VISUAL STUDIO\Practica  01\Practica  01\obj\Debug\Practica__01.Form1.resources
+C:\Users\Ruben Clemente\Documents\VISUAL STUDIO\Practica  01\Practica  01\obj\Debug\Practica__01.Properties.Resources.resources
+C:\Users\Ruben Clemente\Documents\VISUAL STUDIO\Practica  01\Practica  01\obj\Debug\Practica  01.csproj.GenerateResource.cache
+C:\Users\Ruben Clemente\Documents\VISUAL STUDIO\Practica  01\Practica  01\obj\Debug\Practica  01.csproj.CoreCompileInputs.cache
+C:\Users\Ruben Clemente\Documents\VISUAL STUDIO\Practica  01\Practica  01\obj\Debug\Practica  01.exe
+C:\Users\Ruben Clemente\Documents\VISUAL STUDIO\Practica  01\Practica  01\obj\Debug\Practica  01.pdb
